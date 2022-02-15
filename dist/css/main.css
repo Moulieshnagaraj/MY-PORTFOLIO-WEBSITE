@@ -80,6 +80,9 @@ input[class^="btn-"]:hover {
 .mg-5 {
   margin-top: 3rem; }
 
+.mg-6 {
+  margin: 6rem 0; }
+
 .mgall-1 {
   margin: 1rem; }
 
@@ -653,7 +656,8 @@ nav[id="mainnav"].navbar.top {
 
 @media (max-width: 950px) {
   #header-home {
-    height: 30rem; }
+    height: 100vh;
+    background-position: center; }
     #header-home .mainlogo {
       position: relative; }
       #header-home .mainlogo h2 {
@@ -717,7 +721,7 @@ nav[id="mainnav"].navbar.top {
     padding: 1rem; }
   #header-home .header-content h1 {
     font-size: 4rem;
-    padding-top: 10%; }
+    padding-top: 25%; }
   #header-home .header-content .lead {
     display: none; }
   .navbar {

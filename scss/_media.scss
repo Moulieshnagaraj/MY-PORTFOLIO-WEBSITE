@@ -2,7 +2,8 @@
 
 @media (max-width: 950px) {
   #header-home {
-    height: 30rem;
+    height: 100vh;
+    background-position: center;
 
     .mainlogo {
       position: relative;
@@ -129,7 +130,7 @@
       .header-content {
         h1 {
           font-size: 4rem;
-          padding-top: 10%;
+          padding-top: 25%;
         }
 
         .lead {
