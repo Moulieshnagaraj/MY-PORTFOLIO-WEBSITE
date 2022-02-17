@@ -721,7 +721,7 @@ nav[id="mainnav"].navbar.top {
     padding: 1rem; }
   #header-home .header-content h1 {
     font-size: 4rem;
-    padding-top: 25%; }
+    padding-top: 10%; }
   #header-home .header-content .lead {
     display: none; }
   .navbar {
@@ -740,7 +740,7 @@ nav[id="mainnav"].navbar.top {
     #main-footer .social {
       padding: 0.5rem 0; } }
 
-@media (max-width: 500px) {
+@media (max-width: 700px) {
   .navbar .toggler {
     visibility: visible;
     position: absolute;

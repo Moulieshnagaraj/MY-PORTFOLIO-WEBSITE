@@ -117,6 +117,7 @@
   .container {
     padding: 0 3rem;
   }
+
   #home {
     &-a {
       .container {
@@ -130,7 +131,7 @@
       .header-content {
         h1 {
           font-size: 4rem;
-          padding-top: 25%;
+          padding-top: 10%;
         }
 
         .lead {
@@ -166,7 +167,7 @@
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 700px) {
   .navbar {
     .toggler {
       visibility: visible;
